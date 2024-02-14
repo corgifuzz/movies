@@ -1,19 +1,23 @@
-# animation_movies
+# 52,000 Animation Movies Dataset Portfolio
 
-dataset from: https://www.kaggle.com/datasets/asaniczka/52000-animation-movie-details-dataset-2024
+Dataset is from: https://www.kaggle.com/datasets/asaniczka/52000-animation-movie-details-dataset-2024
 
-Multi-Project Portfolio:
-  Project #1: Comprehensive EDA
-  Project #2: Tableau Dashboard of EDA-- https://us-west-2b.online.tableau.com/t/corgifuzz/views/Dashboard/Dashboard2?:origin=card_share_link&:embed=n
-  Project #3: AWS Movie Recommendation-- **in progress**
+## Multi-Project Portfolio:
+  1. Comprehensive Exploratory Data Analysis
+  2. [Tableau Dashboard of EDA](https://us-west-2b.online.tableau.com/t/corgifuzz/views/Dashboard/Dashboard2?:origin=card_share_link&:embed=n)
+  3. [Race Bar Chart in Tableau](https://us-west-2b.online.tableau.com/t/corgifuzz/views/RaceBarChart/Dashboard1?:origin=card_share_link&:embed=n)
+  4.  AWS Movie Recommendation Model-- **in progress**
 
 
-Skills, Tools and Techniques
-    Project #1: Comprehensive EDA
-        Python, Pandas, Numpy, Re, MatPlotLib, Seaborn, Plotly, SciKit-Learn, Correlation Matrix, Linear Regression
-    Project #2: Tableau Dashboard
-        Tableau, Visualization, Querying, Data preparation
-    Project #3: Movie Recommendation System
-        AWS, Amazon SageMaker, API, AWS Lambda, AWS Glue, Collaborative Filtering, ML
+## Skills, Tools and Techniques
++ Project #1: Comprehensive EDA
+    * Jupyter, Python, Pandas, Numpy, Re, MatPlotLib, Seaborn, Plotly, SciKit-Learn
+    * Descriptive Statistics, Inferential Statistics,Correlation Matrix, Linear Regression
++ Project #2: Tableau Dashboard
+    * Tableau, Visualization, Querying, Data preparation
++ Project #3: Movie Recommendation System
+    * AWS, Amazon SageMaker, S3
+    * Deep Learning, Item-Based Collaborative Filtering, ML, API
+    * Data Transformation, One-hot encoding, feature engineering, hyperparameter tuning
         
   
