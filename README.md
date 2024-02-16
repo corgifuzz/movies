@@ -6,7 +6,7 @@ Dataset is from: https://www.kaggle.com/datasets/asaniczka/52000-animation-movie
   1. Animation Movies - EDA
   2. [Tableau Dashboard of EDA](https://us-west-2b.online.tableau.com/t/corgifuzz/views/Dashboard/Dashboard2?:origin=card_share_link&:embed=n)
   3. [Race Bar Chart in Tableau](https://us-west-2b.online.tableau.com/t/corgifuzz/views/RaceBarChart/Dashboard1?:origin=card_share_link&:embed=n)
-  4.  ML Modeling with TensorFlow - **in progress**
+  4.  ML Modeling with SciKit Learn and TensorFlow- **in progress**
   5.  Build a Movie Recommendation Model with AWS -- **in progress**
 
 
