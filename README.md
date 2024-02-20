@@ -2,7 +2,7 @@
   1. Animation Movies - EDA
   2. [Tableau Dashboard of EDA](https://us-west-2b.online.tableau.com/t/corgifuzz/views/Dashboard/Dashboard2?:origin=card_share_link&:embed=n)
   3. [Race Bar Chart in Tableau](https://us-west-2b.online.tableau.com/t/corgifuzz/views/RaceBarChart/Dashboard1?:origin=card_share_link&:embed=n)
-  4.  ML Modeling with SciKit Learn and TensorFlow
+  4.  Machine Learning Modeling with SciKit Learn and TensorFlow
   5.  Build a Content-Based Movie Recommendation System
 
 
@@ -14,7 +14,7 @@
     * Tableau, Visualization, Querying, Data preparation
 + Project #4: ML Modeling
     * Python, TensorFlow, machine learning modeling, model evaluation
-+ Project #5: Movie Recommendation System
++ Project #5: Content-Based Movie Recommendation System
     * NLP, Content-Based Filtering, ML
     * Data Transformation and pre-processing, Term Frequency-Inverse Document Frequency, Cosine Similarity, User-Interaction
         
