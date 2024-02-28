@@ -1,5 +1,5 @@
 # Multi-Project Portfolio:
-  1. Animation Movies - EDA
+  1. Decoding Data: A Step by Step Guide to EDA
   2. [Tableau Dashboard of EDA](https://us-west-2b.online.tableau.com/t/corgifuzz/views/Dashboard/Dashboard2?:origin=card_share_link&:embed=n)
   3. [Race Bar Chart in Tableau](https://us-west-2b.online.tableau.com/t/corgifuzz/views/RaceBarChart/Dashboard1?:origin=card_share_link&:embed=n)
   4.  Machine Learning Modeling with SciKit Learn and TensorFlow
@@ -8,7 +8,7 @@
 
 
 ## Skills, Tools and Techniques
-+ Project #1: Animation Movies- EDA
++ Project #1: Decoding Data Guide- EDA
     * Jupyter, Python, Pandas, Numpy, Re, MatPlotLib, Seaborn, Plotly, SciKit-Learn
     * Descriptive Statistics, Inferential Statistics,Correlation Matrix, Linear Regression
 + Project #2 & 3: Tableau Dashboard
