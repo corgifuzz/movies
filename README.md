@@ -17,10 +17,10 @@
 + Project #4: Predictive Modeling
     * Python, TensorFlow, machine learning modeling, model evaluation, feature engineering
 + Project #5: Leverage Machine Learning to Create Recommendation Systems
-   - Content-Based Movie Recommendation System
+   A. Content-Based Movie Recommendation System
     * NLP, Content-Based Filtering, ML
     * Data Transformation and pre-processing, Term Frequency-Inverse Document Frequency, Cosine Similarity, User-Interaction
-   - Collaborative Filtering Recommendation
+    B. Collaborative Filtering Recommendation
     * Data Transformation and pre-processing, Collaborative Filtering, Recommendation System, Python
         
   ## Datasets are from:
