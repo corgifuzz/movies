@@ -4,8 +4,8 @@
   3. [Race Bar Chart in Tableau](https://us-west-2b.online.tableau.com/t/corgifuzz/views/RaceBarChart/Dashboard1?:origin=card_share_link&:embed=n)
   4. Predictive Modeling with SciKit Learn and TensorFlow
   5. Leverage Machine Learning to Create Recommendation Systems
-       - Build a Content-Based Movie Recommendation System
-       - Collaborative-Filtering Recommendation
+       - A. Build a Content-Based Movie Recommendation System
+       - B. Collaborative-Filtering Recommendation
 
 
 ## Skills, Tools and Techniques
@@ -16,11 +16,10 @@
     * Tableau, Visualization, Querying, Data preparation
 + Project #4: Predictive Modeling
     * Python, TensorFlow, machine learning modeling, model evaluation, feature engineering
-+ Project #5: Leverage Machine Learning to Create Recommendation Systems
-   A. Content-Based Movie Recommendation System
++ Project #5a: Content-Based Movie Recommendation System
     * NLP, Content-Based Filtering, ML
     * Data Transformation and pre-processing, Term Frequency-Inverse Document Frequency, Cosine Similarity, User-Interaction
-    B. Collaborative Filtering Recommendation
++ Project #5b: Collaborative Filtering Recommendation
     * Data Transformation and pre-processing, Collaborative Filtering, Recommendation System, Python
         
   ## Datasets are from:
